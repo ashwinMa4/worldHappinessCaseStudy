@@ -1,3 +1,3 @@
 # worldHappinessCaseStudy
 
-Click on the Jupyter file with .ipyb to view my Analysis
+Click on the Jupyter file with .ipynb extension to view my Analysis
